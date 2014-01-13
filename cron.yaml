@@ -1,0 +1,4 @@
+cron:
+- description: check freeappnow site 
+  url: /
+  schedule: every 5 minutes
